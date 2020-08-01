@@ -16,25 +16,25 @@ Vamos fazer um pequeno sistema que auxilie essa tomada de decisão!
 ## Estórias
 
 ### Estória 1
-Eu como profissional faminto </br>
+*Eu como profissional faminto</br>
 Quero votar no meu restaurante favorito </br>
-Para que eu consiga democraticamente levar meus colegas a comer onde eu gosto. </br>
+Para que eu consiga democraticamente levar meus colegas a comer onde eu gosto.* </br>
 
 Critério de Aceitação:
 - Um profissional só pode votar em um restaurante por dia.
 
 ### Estória 2
-Eu como facilitador do processo de votação </br>
+*Eu como facilitador do processo de votação </br>
 Quero que um restaurante não possa ser repetido durante a semana </br>
-Para que não precise ouvir reclamações infinitas! </br>
+Para que não precise ouvir reclamações infinitas!*</br>
 
 Critério de Aceitação:
 - O mesmo restaurante não pode ser escolhido mais de uma vez durante a semana.
 
 ### Estória 3
-Eu como profissional faminto </br>
+*Eu como profissional faminto </br>
 Quero saber antes do meio dia qual foi o restaurante escolhido </br>
-Para que eu possa me despir de preconceitos e preparar o psicológico. </br>
+Para que eu possa me despir de preconceitos e preparar o psicológico.* </br>
 
 Critério de Aceitação:
 - Mostrar de alguma forma o resultado da votação.
